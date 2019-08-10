@@ -9,15 +9,25 @@ body,
 
 #app {
   display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-between;
-  align-content: space-between;
 }
 
 .box {
   width: 300px;
   height: 60px;
-  background-color: red;
   margin: 5px;
+}
+
+.red {
+  background-color: red;
+  order: 1;
+}
+
+.green {
+  background-color: #0f0;
+  order: 2;
+}
+
+.blue {
+  background-color: #00f;
+  order: 0;
 }
