@@ -11,7 +11,7 @@
   uso do css order.
 
 ## Diretório aplicacao:
-  Criado o com flexbox o layout da Home do Twiiter:
+  Foi desenvolvido a página inicial do Twitter com flexbox.
   
 * Header
 * Banner
